@@ -51,11 +51,24 @@ The analysis uses a dataset containing 891 passenger records.
 - Missing ages were excluded from this analysis.
 
 ## Visualizations
-The project includes three visualizations:
 
-1. Bar chart comparing survival rates by gender.
-2. Mosaic-style plot comparing survival by passenger class.
-3. Boxplot comparing passenger ages by survival status.
+### Analysis 1: Gender and Survival
+
+Female passengers had a survival rate of 74.2%, compared with 18.9% for male passengers.
+
+![Titanic Survival Rate by Gender](images/gender-survival.png)
+
+### Analysis 2: Ticket Class and Survival
+
+Survival rates decreased from 63.0% in first class to 24.2% in third class.
+
+![Titanic Survival by Ticket Class](images/ticket-class-survival.png)
+
+### Analysis 3: Age and Survival
+
+Survivors were approximately 28.3 years old on average, compared with 30.6 years for non-survivors.
+
+![Titanic Passenger Age by Survival](images/age-survival.png)
 
 ## Project Structure
 
