@@ -1,6 +1,12 @@
 
 # Titanic Survival Analysis Using R
 
+## View the Full Analysis Report
+
+[View Live Titanic Survival Analysis Report](https://mariagarciaaaa.github.io/titanic-survival-analysis-r/)
+
+Explore all three analyses, including the R code, statistical results, and visualizations.
+
 ## Project Overview
 This project explores Titanic passenger survival patterns
 using R to investigate how gender, passenger ticket class,
@@ -52,9 +58,11 @@ The project includes three visualizations:
 3. Boxplot comparing passenger ages by survival status.
 
 ## Project Structure
-- `code/Titanic_MG.R` - R analysis script
-- `code/Titanic_MG.html` - Compiled HTML report
-- `data/train.csv` - Titanic passenger dataset
+
+## Project Structure
+- [R Analysis Script](code/Titanic_MG.R) — Complete R code script for all three analyses
+- [HTML Report](code/Titanic_MG.html) — Compiled HTML analysis report
+- [Titanic Dataset](data/train.csv) — Titanic passenger dataset
 
 ## How to Run
 1. Open the repository folder as the working directory in RStudio.
